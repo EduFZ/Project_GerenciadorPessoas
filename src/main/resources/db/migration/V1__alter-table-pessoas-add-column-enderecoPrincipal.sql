@@ -1,0 +1,1 @@
+alter table pessoas add enderecoPrincipal bit not null;
